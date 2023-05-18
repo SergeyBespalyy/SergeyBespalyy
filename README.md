@@ -4,7 +4,7 @@
 
 
 <p align='center'>
-   <a href="https://t.me/sergey_bespalyy)" target="_blank">
+   <a href="https://t.me/@sergey_bespalyy)" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />        
   </a>&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/SergeyBespalyy/" target="_blank">
@@ -14,16 +14,16 @@
   📫  How to reach me: <a href='mailto:bespaliy.sergei@yandex.ru'>bespaliy.sergei@yandex.ru</a>
 </p>
 
-### Key points
+### Ключевые моменты
 *   Прокачиваю свои скилы по алгоритмам на [codewars](https://www.codewars.com/users/SergeyBespalyy)
 
-## 🛠 Technical Stack
+## 🛠 Технический стек
 *   Java languages
 *   MySQL, PostgreSQL, Flyway
 *   Spring Framework, Spring Boot, Spring Test, Spring Data Jpa, Spring Jdbc template, Spring MVC
 *   Docker, Maven
 *   GitHub
 
-### My opensource projects
+### Мой opensource проект
 
-*   [image-comparison](https://github.com/romankh3/image-comparison) - Published on Maven Central Java Library that compares 2 images with the same sizes and shows the differences visually by drawing rectangles. Some parts of the image can be excluded from the comparison.
+*   [image-comparison](https://github.com/SergeyBespalyy/java-test-interview) - Приложение для подготовки к собеседованию и прохождению интервью на Java.
