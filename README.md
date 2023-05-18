@@ -6,14 +6,14 @@
 
 
 <p align='center'>
-   <a href="https://t.me/@sergey_bespalyy" target="_blank">
+   <a href="https://web.telegram.org/k/#@sergey_bespalyy" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />        
   </a>&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/SergeyBespalyy/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
  <p align='center'>
-  📫  How to reach me: <a href='mailto:bespaliy.sergei@yandex.ru'>bespaliy.sergei@yandex.ru</a>
+  📫  Можете связаться со мной по почте: <a href='mailto:bespaliy.sergei@yandex.ru'>bespaliy.sergei@yandex.ru</a>
 </p>
 
 ### Ключевые моменты
