@@ -6,7 +6,7 @@
 
 
 <p align='center'>
-   <a href="https://t.me/@sergey_bespalyy)" target="_blank">
+   <a href="https://t.me/@sergey_bespalyy" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />        
   </a>&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/SergeyBespalyy/" target="_blank">
