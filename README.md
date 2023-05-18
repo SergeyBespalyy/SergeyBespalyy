@@ -28,4 +28,4 @@
 
 ### Мой opensource проект
 
-*   [java-test-interview](https://github.com/SergeyBespalyy/java-test-interview) - Приложение для подготовки к собеседованию и прохождению интервью на Java.
+*   [java-test-interview](https://github.com/SergeyBespalyy/java-test-interview) - Приложение для подготовки к собеседованию и прохождению интервью на Java.(В РАЗРАБОТКЕ)
