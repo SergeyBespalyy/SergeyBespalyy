@@ -23,6 +23,7 @@
 *   Java languages
 *   MySQL, PostgreSQL, Flyway
 *   Spring Framework, Spring Boot, Spring Test, Spring Data Jpa, Spring Jdbc template, Spring MVC
+*   Hibernate
 *   Docker, Maven
 *   GitHub
 
