@@ -30,6 +30,6 @@
 ### Мой текущий проект, над которым работаю
 * [java-shareit](https://github.com/SergeyBespalyy/java-shareit) - Приложение для бронирования вещей и сдачу их в аренду
 
-### Мой opensource проект
+<!-- ### Мой opensource проект
 
-*   [java-test-interview](https://github.com/SergeyBespalyy/java-test-interview) - Приложение для подготовки к собеседованию и прохождению интервью на Java.(В РАЗРАБОТКЕ)
+*   [java-test-interview](https://github.com/SergeyBespalyy/java-test-interview) - Приложение для подготовки к собеседованию и прохождению интервью на Java.(В РАЗРАБОТКЕ) -->
